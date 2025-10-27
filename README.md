@@ -77,7 +77,3 @@ Replace images in `public/services.json` with your own (postimages.org / imgbb.c
 - `swiper`
 - `aos`
 - `tailwindcss` + `daisyui` (dev)
-
-## Notes
-- Do not implement email verification to keep testing simple, as requested.
-- This project is designed to avoid crashes on route reloads.
