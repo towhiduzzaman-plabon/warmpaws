@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 import { Autoplay, Pagination } from 'swiper/modules'
 import 'swiper/css'
 import 'swiper/css/pagination'
-
+//sdfhsdbfhsdbfhdsfhsjbhbhbhbhbhbh
 const slides = [
   { url: 'https://images.unsplash.com/photo-1543466835-00a7907e9de1?q=80&w=1200', caption: 'Cozy coats for chilly walks' },
   { url: 'https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?q=80&w=1200', caption: 'Paw protection & grooming' },
