@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?q=80&w=1200",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?q=80&w=1200",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Bed Rental",
+    "providerName": "WarmNest Rentals",
+    "providerEmail": "rent@warmnest.io",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Rent vet-approved heated pet beds for week-long cozy naps.",
+    "image": "https://images.unsplash.com/photo-1558944351-c6ae1e4e0f45?q=80&w=1200",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Senior Pet Winter Wellness Check",
+    "providerName": "VetCare+",
+    "providerEmail": "hello@vetcare.plus",
+    "price": 40,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Full winter-focused check-up for senior pets: joints, hydration, and temperature tolerance.",
+    "image": "https://images.unsplash.com/photo-1601758064134-0c3ce0b40a6f?q=80&w=1200",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Reflective Night Walk Kit",
+    "providerName": "SafePaws",
+    "providerEmail": "team@safepaws.app",
+    "price": 15,
+    "rating": 4.6,
+    "slotsAvailable": 8,
+    "description": "Leash, booties, and reflective vest set for darker winter evenings.",
+    "image": "https://images.unsplash.com/photo-1525253013412-55c1a69a5738?q=80&w=1200",
+    "category": "Safety"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Cat Cabin Insulation Service",
+    "providerName": "WhiskerWorks",
+    "providerEmail": "support@whisker.works",
+    "price": 35,
+    "rating": 4.8,
+    "slotsAvailable": 5,
+    "description": "Insulate indoor/outdoor cat shelters for windproof warmth with vet-safe materials.",
+    "image": "https://images.unsplash.com/photo-1555685812-4b943f1cb0eb?q=80&w=1200",
+    "category": "Shelter"
+  }
+]
